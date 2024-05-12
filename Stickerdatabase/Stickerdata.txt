@@ -1,0 +1,2 @@
+CREATE DATABASE sticker_database;
+USE sticker_database;
